@@ -3,9 +3,7 @@
 > Official website and documentation for **HyPrism**,
 > a free and open source third-party launcher for **Hytale**.
 
-HyPrism is not affiliated with Hypixel Studios or Riot Games.
-
----
+<img src = "image.png">
 
 ## Overview
 
@@ -18,13 +16,6 @@ It serves three purposes:
 - A release and download hub backed by GitHub Releases
 
 The design favors clarity, contrast, and composability over visual noise.
-
----
-
-## Live Site
-
-- **Website:** https://hyprismteam.github.io/hyprism-site/
-- **Releases:** https://github.com/HyPrismTeam/Hyprism/releases
 
 ---
 
